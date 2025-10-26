@@ -1,22 +1,58 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+  - title: "Trinity: A General Purpose FHE Accelerator"
+    authors: <strong>Xianglong Deng</strong>, Shengyu Fan, Zhicheng Hu, Zhuoyu Tian, Zihao Yang, Jiangrui Yu, Dingyuan Cao, Dan Meng, Rui Hou, Meng Li, Qian Lou, Mingzhe Zhang
+    conference_short: MICRO
+    conference: IEEE/ACM International Symposium on Microarchitecture <strong>(MICRO)</strong>, 2024.
+    pdf: https://arxiv.org/pdf/2410.13405
+    code: 
+    bibtex: 
+    image: 
+    notes: 
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+  - title: "Neo: Towards Efficient Fully Homomorphic Encryption Acceleration using Tensor Core"
+    authors: Dian Jiao*, <strong>Xianglong Deng*</strong>, Zhiwei Wang, Shengyu Fan, Dan Meng, Rui Hou, Mingzhe Zhang (* Equal contribution)
+    conference_short: ISCA
+    conference: International Symposium on Computer Architecture <strong>(ISCA)</strong>, 2025.
+    pdf: https://dl.acm.org/doi/pdf/10.1145/3695053.3731408
+    code: 
+    page: 
+    bibtex: 
+    notes: 
+    image: 
+  
+  - title: "FAST:An FHE Accelerator for Scalable-parallelism with Tunable-bit"
+    authors: Shengyu Fan, <strong>Xianglong Deng</strong>, Liang Kong, Guiming Shi, Guang Fan, Dan Meng, Rui Hou, Mingzhe Zhang
+    conference_short: ISCA
+    conference: International Symposium on Computer Architecture <strong>(ISCA)</strong>, 2025.
+    pdf: https://dl.acm.org/doi/pdf/10.1145/3695053.3731408
+    code: 
+    page: 
+    bibtex: 
+    notes: 
+    image: 
+  
+  - title: "HAWK: Fully Homomorphic Encryption Accelerator with Fixed-Word Key Decomposition Switching"
+    authors: Liang Kong, Shengyu Fan, <strong>Xianglong Deng</strong>, Lei Chen, Guang Fan, Guiming Shi, Yilan Zhu, Geng Yang, Shoumeng Yan, Mingzhe Zhang
+    conference_short: MICRO
+    conference: IEEE/ACM International Symposium on Microarchitecture <strong>(MICRO)</strong>, 2025.
+    pdf: https://dl.acm.org/doi/pdf/10.1145/3725843.3756123
+    code: 
+    page: 
+    bibtex: 
+    notes: 
+    image: 
+
+
+  
+  - title: "WarpDrive: GPU-Based Fully Homomorphic Encryption Acceleration Leveraging Tensor and CUDA Cores"
+    authors: Guang Fan, Mingzhe Zhang, Fangyu Zheng, Shengyu Fan, Tian Zhou, <strong>Xianglong Deng</strong>, Wenxu Tang, Liang Kong, Yixuan Song, and Shoumeng Yan
+    conference_short: HPCA
+    conference: IEEE International Symposium on High Performance Computer Architecture <strong>(HPCA)</strong>, 2025.
+    pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10946827
+    code: 
+    page: 
+    bibtex: 
+    notes: 
+    image: 
+    # doi: 10.1109/HPCA61900.2025.00091

@@ -1,12 +1,13 @@
 # Basic Information 
-title: Your Name
-position: Ph.D. Student
-affiliation: Your Affiliation
-email: yourname (at) example.edu
+title: Xianglong Deng
+position: Ph.D. Candidate
+affiliation: Institute of Information Engineering, CAS
+email: dengxianglong@iie.ac.cn
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: minimal light
+keywords: 邓翔龙, Xianglong Deng, 全同态加密, Fully Homomorphic Encryption, FHE, FHE加速, FHE硬件加速, FHE系统, 同态加密加速, 隐私计算, Privacy-preserving computation, 硬件安全, FPGA, 安全计算, 可信AI, Trusted AI, 加密算法优化, 密码学工程, 信息工程研究所, CAS, Institute of Information Engineering
+
 description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
 canonical: https://minimal-light-theme.yliu.me/
 
@@ -14,13 +15,13 @@ canonical: https://minimal-light-theme.yliu.me/
 # If you don't need one of them, you may delete the corresponding line.
 google_scholar: https://scholar.google.com/
 cv_link: assets/files/curriculum_vitae.pdf
-github_link: https://github.com/
-linkedin: https://www.linkedin.com/
-twitter: https://twitter.com/
+github_link: https://github.com/xldeng-chn/
+# linkedin: https://www.linkedin.com/
+# twitter: https://twitter.com/
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
-avatar: ./assets/img/avatar.png
+avatar: ./assets/img/xianglong.jpg
 favicon: ./assets/img/favicon.png
 favicon_dark: ./assets/img/favicon-dark.png
 
