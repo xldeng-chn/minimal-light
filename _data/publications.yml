@@ -4,11 +4,13 @@ main:
     authors: <strong>Xianglong Deng</strong>, Shengyu Fan, Zhicheng Hu, Zhuoyu Tian, Zihao Yang, Jiangrui Yu, Dingyuan Cao, Dan Meng, Rui Hou, Meng Li, Qian Lou, Mingzhe Zhang
     conference_short: MICRO
     conference: IEEE/ACM International Symposium on Microarchitecture <strong>(MICRO)</strong>, 2024.
-    pdf: https://arxiv.org/pdf/2410.13405
+    pdf: https://dl.acm.org/doi/pdf/10.1109/MICRO61859.2024.00033
     code: 
     bibtex: 
     image: 
     notes: 
+    doi: https://dl.acm.org/doi/10.1109/MICRO61859.2024.00033
+    slide: 
 
   - title: "Neo: Towards Efficient Fully Homomorphic Encryption Acceleration using Tensor Core"
     authors: Dian Jiao*, <strong>Xianglong Deng*</strong>, Zhiwei Wang, Shengyu Fan, Dan Meng, Rui Hou, Mingzhe Zhang (* Equal contribution)
@@ -20,8 +22,9 @@ main:
     bibtex: 
     notes: 
     image: 
+    doi: https://doi.org/10.1145/3695053.3731408
   
-  - title: "FAST:An FHE Accelerator for Scalable-parallelism with Tunable-bit"
+  - title: "FAST: An FHE Accelerator for Scalable-parallelism with Tunable-bit"
     authors: Shengyu Fan, <strong>Xianglong Deng</strong>, Liang Kong, Guiming Shi, Guang Fan, Dan Meng, Rui Hou, Mingzhe Zhang
     conference_short: ISCA
     conference: International Symposium on Computer Architecture <strong>(ISCA)</strong>, 2025.
@@ -31,6 +34,7 @@ main:
     bibtex: 
     notes: 
     image: 
+    doi: https://doi.org/10.1145/3695053.3731407
   
   - title: "HAWK: Fully Homomorphic Encryption Accelerator with Fixed-Word Key Decomposition Switching"
     authors: Liang Kong, Shengyu Fan, <strong>Xianglong Deng</strong>, Lei Chen, Guang Fan, Guiming Shi, Yilan Zhu, Geng Yang, Shoumeng Yan, Mingzhe Zhang
@@ -42,6 +46,7 @@ main:
     bibtex: 
     notes: 
     image: 
+    doi: https://doi.org/10.1145/3725843.3756123
 
 
   
@@ -55,4 +60,4 @@ main:
     bibtex: 
     notes: 
     image: 
-    # doi: 10.1109/HPCA61900.2025.00091
+    doi: https://doi.org/10.1109/HPCA61900.2025.00091
