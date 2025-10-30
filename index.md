@@ -6,11 +6,14 @@ layout: homepage
 
 I am currently a 4th-year Ph.D. candidate from Institute of Information Engineering, Chinese Academy of Sciences (IIE, CAS), co-advised by [Prof. Rui Hou](http://hourui-arch.net/) and [Prof. Mingzhe Zhang](https://mingzhe-zhang.github.io/). I received my B.E degree from University of Electronic Science and Technology of China (UESTC) in 2022, advised by [Prof. Liang Chang](https://liang-chang-uestc.github.io/).
 
-**I am currently seeking postdoctoral research opportunities in the accelerator and system design for Fully Homomorphic Encryption (FHE), Privacy-Preserving Machine Learning (PPML), and Large Language Model (LLM).**
+<div style="border: 2px solid #90caf9; background: #e3f2fd; padding: 12px 16px; border-radius: 6px; margin: 12px 0;">
+  <span style="color: #e74c3c;"><strong style="color: #e74c3c !important; font-weight: 900;">Seeking for Postdoc: </strong>I am actively seeking postdoctoral research opportunities in the accelerator and system design for Fully Homomorphic Encryption (FHE) and Large Language Model (LLM).</span>
+</div>
 
 ## Research Interests
 
-- **Domain-specific Accelerator:** Accelerator design for Fully Homomorphic Encryption
+- **Infrastructure:** System design for FHE and LLM
+- **Domain-specific Accelerator:** Accelerator design for FHE and LLM
 <!-- - **Machine Learning:** meta-learning, incremental learning, transfer learning -->
 
 ## News
